@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="google_fonts_certs" />
+    <style name="google_fonts_certs_dev" />
+    <style name="google_fonts_certs_prod" />
+    <style name="languageCodes" />
+    <style name="languages" />
+    <style name="localizedLang" />
+    <array name="messages_info" />
+    <style name="messages_info_core" />
+</resources>

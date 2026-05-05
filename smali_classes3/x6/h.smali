@@ -1,0 +1,17 @@
+.class public interface abstract Lx6/h;
+.super Ljava/lang/Object;
+.source "r8-map-id-82e351d4d0614ce74530bcc5c0219f7b4509d32770f8033cd29a9ca637449242"
+
+
+# virtual methods
+.method public abstract fold(Ljava/lang/Object;Lh7/p;)Ljava/lang/Object;
+.end method
+
+.method public abstract get(Lx6/g;)Lx6/f;
+.end method
+
+.method public abstract minusKey(Lx6/g;)Lx6/h;
+.end method
+
+.method public abstract plus(Lx6/h;)Lx6/h;
+.end method
